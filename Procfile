@@ -1,1 +1,1 @@
-worker: python relay_bot.py
+worker: python3 relay_bot.py
